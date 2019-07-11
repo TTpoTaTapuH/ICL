@@ -12,7 +12,7 @@
 
 #### Endpoints
 - Admin page: http://localhost:8060/admin/
-- get script http://localhost:8060/api/task/
+- get script http://localhost:8060/api/tasks/
 
 #### Переходим на сайт Admin page и вводим свои данные для входа, которые указали при создании пользователя для админки. Кликаем по полю Tasks и добавляем новый объект. Сохраняем текст скрипта powershell. Например: Write-Host 444. Сохраняем объект.
 #### Переходим в папку ICL, вводим команду `make run-server`. Сервер запускается, остается запустить только клиента.
